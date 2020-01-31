@@ -14,3 +14,5 @@ class Customer
   end
  
 end
+
+howard.new_meal(terrance, 10, 1)
